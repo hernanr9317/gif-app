@@ -8,6 +8,11 @@ export const GifExpertApp = () => {
 
     return (
         <>
+            <h5>By Hernan Rascon</h5>
+            <ol>
+                <li><a href="https://www.linkedin.com/in/hernan-rascon-552020170/">Linkedin</a></li>
+                <li><a href="https://github.com/hernanr9317">GitHub</a></li>
+            </ol>
             <h1>GifExpertApp</h1>
             <h2>Buscar Gifs</h2>
             <AddCategory setCategories={ setCategories } />

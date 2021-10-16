@@ -3,7 +3,7 @@
 }
 
 body {
-  padding: 60px;
+  padding: 50px;
   background-color: rgb(37, 36, 36);
   color: white;
 }
@@ -11,6 +11,28 @@ body {
 h1 {
   text-align: center;
   font-size: 50px;
+}
+
+h5 {
+  text-align: right;
+  font-size: 15px;
+}
+
+ol {
+  float: right;
+  margin: 0;
+}
+
+ol li{
+  font-size: 15px;
+  list-style: none;
+  display: inline;
+  padding-right: 10px;
+}
+
+
+a {
+  color: white;
 }
 
 input {
